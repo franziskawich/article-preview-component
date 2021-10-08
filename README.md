@@ -55,7 +55,7 @@ img {
 }
 ```
 
-This is my first challenge with some JavaScript. At first I hade two separate share buttons, but it made more sense to change the background-color with JS in the end. Unexpectedly the JS part was easy compared to the rest of the challenge.
+This is my first challenge with some JavaScript. At first I had two separate share buttons, but it made more sense to change the background-color with JS in the end. Unexpectedly the JS part was easy compared to the rest of the challenge.
 
 ### Continued development
 
